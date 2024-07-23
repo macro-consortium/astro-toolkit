@@ -13,7 +13,7 @@ description: >-
 - Extension 2
 - Extension 3
 
-[Additional useful features]({% link vscode.md %})
+[Additional useful features]({{ site.baseurl }}{% link vscode.md %})
 
 ## [Python](https://www.python.org/)
 - [astropy](https://www.astropy.org/)
@@ -41,4 +41,4 @@ Jupyter notebooks are the de-facto standard for interactive python work.
 Marimo is a new notebook package that is designed to be more interactive and responsive. 
 It is currently in active development, with new features being added regularly.
 
-[about]({% link about.markdown %})
+[about]({{ site.baseurl }}{% link about.markdown %})
