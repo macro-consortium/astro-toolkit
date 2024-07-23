@@ -30,9 +30,9 @@ theme: jekyll-theme-cayman
 #   - jekyll-feed
 #   - jekyll-remote-theme
 
-domain: macro-consortium.github.io
-url: https://macro-consortium.github.io
-baseurl: /astro-toolkit/docs
+# domain: macro-consortium.github.io
+# url: https://macro-consortium.github.io
+# baseurl: /astro-toolkit/docs
 
 # Exclude from processing.
 # The following items will not be processed, by default.
