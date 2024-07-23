@@ -17,3 +17,5 @@ description: >-
 - Package 1
 - Package 2
 - Package 3
+
+[about](/about/)

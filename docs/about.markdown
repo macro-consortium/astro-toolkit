@@ -8,7 +8,7 @@ This is the base Jekyll theme. You can find out more info about customizing your
 
 You can find the source code for Cayman at GitHub:
 [jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/cayman)
+[cayman](https://github.com/jekyll/cayman)
 
 You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
